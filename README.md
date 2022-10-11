@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Makariuz
-- 👀 I’m interested in Web Development! But love aesthetics, so...
+- 👀 I’m interested in Web Development!
 - 🌱 I’m currently building a FullStack Web App for an Institution (volunteer).
 - 👨🏽‍💻 Seeking a mentor.
 - 🔥 Building the best Portfolio App I can.
-- 💞️ I’m also a Musician! (Going to do some website sound design)
+- 💞️ I’m also a Musician!
 - 📫 How to reach me Tweet @TheRealMakariuz 
 
 <!---
