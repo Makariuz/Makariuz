@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Makariuz
 - 👀 I’m interested in Web Development!
-- 🌱 I’m currently building a FullStack Web App for an Institution (volunteer).
+- 🌱 I wrote a [blog](https://dev.to/therealmakariuz/road-to-employment-a-junior-devs-job-search-adventure-ep-i-4d6n) ! 
 - 👨🏽‍💻 Seeking a mentor.
-- 🔥 Building the best Portfolio App I can.
+- 🔥 Started [here](http://codewalk.vercel.app/) and going...tba
 - 💞️ I’m also a Musician!
 - 📫 How to reach me Tweet @TheRealMakariuz 
 
